@@ -2,7 +2,7 @@
 
 👀 I’m interested in JavaScript
 
-🌱 I’m currently learning TypeScript and WebGL
+🌱 I’m currently learning TypeScript and NuxtJs
 
 💞️ I’m looking to collaborate on projects with movement and animation
 
