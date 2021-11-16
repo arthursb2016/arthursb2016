@@ -1,9 +1,7 @@
-👋 Hi, I’m @arthursb2016
+I invite you to get to know my most recent personal project, the Celestial Oracle:
 
-👀 I’m interested in JavaScript
+https://celestialoracle.net/
 
-🌱 I’m currently learning TypeScript and NuxtJs
+Open it up, it will make your day brighter :)
 
-💞️ I’m looking to collaborate on innovative projects
-
-📫 How to reach me: artsborba@gmail.com
+Want to reach me? Please don't hesitate to write: artsborba@gmail.com
