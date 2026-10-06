@@ -34,7 +34,7 @@ I have been coding since 2012 and I still love what I do!
 
 ### 🎨 Featured Projects
 
-| Project Name | Live Demo | Brief Description |
+| Name | Link | Description |
 | :--- | :--- | :--- |
 | **ui-scaler** | [🚀 Website](https://uiscaler.com) | Open-source solution for responsive interfaces. |
 | **logo-loader** | [🚀 NPM page](https://www.npmjs.com/package/logo-loader) | Open-source project where I have some fun every now and then. |
@@ -44,7 +44,7 @@ I have been coding since 2012 and I still love what I do!
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthursb2016&show_icons=true&theme=default" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthursb2016&show_icons=true&hide=prs,issues,contribs&include_all_commits=true&theme=default" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursb2016&layout=compact&theme=default" alt="Top Languages" height="150" />
 </p>
 
