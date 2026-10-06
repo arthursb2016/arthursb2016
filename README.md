@@ -10,7 +10,7 @@ I have been coding since 2012 and I still love what I do!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 **Frontend**
 
