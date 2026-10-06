@@ -19,7 +19,7 @@ I have been coding since 2012 and I still love what I do!
 ![Svelte](https://shields.io)
 
 **Backend**
-![Node.JS](https://shields.io)
+![Node.js](https://shields.io)
 ![Laravel](https://shields.io)
 ![Python](https://shields.io)
 
@@ -49,5 +49,5 @@ I have been coding since 2012 and I still love what I do!
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/artsborba/)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Portfolio](https://shields.io)](https://arthurborba.dev)
