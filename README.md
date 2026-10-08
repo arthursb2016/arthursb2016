@@ -1,12 +1,11 @@
 # Hi there, I'm Arthur 👋
 ### Senior Developer | UI Nerd | UX Enthusiast | Backend PRO
 
-I have been coding since 2012 and I still love what I do!
-
 - 🌍 Based in **Florianópolis, Brazil**
 - 💼 Open to **Collaboration**
 - 🚀 Currently perfecting my skills in **DevOps**
 - ⚡ Fun fact: **I own 5 cats**
+- ⏳ Coding: **since 2012**
 
 ---
 
