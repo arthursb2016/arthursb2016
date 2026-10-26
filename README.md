@@ -1,4 +1,4 @@
-# Hi there, I'm Arthur 👋
+# I'm Arthur 👋
 ### Senior Developer | UI Nerd | UX Enthusiast | Backend PRO
 
 - 🌍 Based in **Florianópolis, Brazil**
